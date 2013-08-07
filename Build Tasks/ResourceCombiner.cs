@@ -6,7 +6,7 @@ using System.Web;
 using System.IO;
 using System.IO.Compression;
 
-namespace Tavisca.Gossamer.UI.BuildTasks
+namespace BuildTasks
 {
     public class ResourceCombiner : IHttpHandler
     {

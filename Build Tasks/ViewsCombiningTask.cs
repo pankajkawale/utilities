@@ -6,7 +6,7 @@ using System.Text;
 using Microsoft.Build.Framework;
 using Microsoft.Build.Utilities;
 
-namespace Tavisca.Gossamer.UI.BuildTasks
+namespace BuildTasks
 {
     public class ViewsCombiningTask : Task
     {

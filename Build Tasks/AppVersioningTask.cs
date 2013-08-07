@@ -6,7 +6,7 @@ using Microsoft.Build.Utilities;
 using Microsoft.Build.Framework;
 using System.IO;
 
-namespace Tavisca.Gossamer.UI.BuildTasks
+namespace BuildTasks
 {
     public class AppVersioningTask : Task
     {

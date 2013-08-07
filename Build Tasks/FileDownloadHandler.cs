@@ -7,7 +7,7 @@ using System.Net;
 using System.Web.SessionState;
 using System.IO;
 
-namespace Tavisca.Gossamer.UI.BuildTasks
+namespace BuildTasks
 {
     public class FileDownloadHandler : IHttpHandler
     {
